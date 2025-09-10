@@ -3,7 +3,7 @@ module.exports.config = {
   name: "Obot",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_ ☢️",
+  credits: "💫𝗔𝘁𝗶'𝗰𝗸-𝘃𝗮𝘂'𝘀❞💭𝗽𝗿𝗼𝗽𝗲𝗿𝘁𝘆🥀┼─🔐💜",
   description: "goibot",
   commandCategory: "Noprefix",
   usages: "noprefix",
